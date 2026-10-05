@@ -1,12 +1,9 @@
 {
-  "source_commit": "ab6eaa0ad9413de995f98f0356632a28fa812442",
+  "source_commit": "f23af587c72742f73dc86342f76a9158aac40936",
   "schema": 2,
-  "built_at": "2026-10-05T19:45:34.452192+00:00",
+  "built_at": "2026-10-05T21:02:11.218519+00:00",
   "sha256": {
-    "index.pck": "39bb6461242469864360c0e2ed8ffbc7de1a323634b3c9987250bab913855a68",
+    "index.pck": "f56aae200413840b7759353792653ae179422a37d7ea5228d3b127600426460c",
     "index.wasm": "e4a43dbae28662b2a68f6136857a94db6695430901515800b9883f6327cb7116"
-  },
-  "source_tree": "55b8f205198a146fceae9d07a45c673d7cce8b82",
-  "validated_workflow_run": 37363563257,
-  "validated_workflow_attempt": 2
+  }
 }
